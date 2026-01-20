@@ -25,17 +25,17 @@
     <td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/></td>
+    <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/></td>
     <td><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></td>
     <td><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/></td>
+    <td><img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R"/></td>
     <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R"/></td>
+    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/></td>
     <td><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/></td>
     <td></td>
   </tr>
