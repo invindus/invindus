@@ -1,12 +1,13 @@
 [<img src="https://raw.githubusercontent.com/invindus/invindus/master/intro.gif" alt="👋 Hey, I'm Sam."/>](https://snchan.framer.ai/)
-*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* `2025-10-16`
+*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* `2026-04-15`
 
 ## 📖 ᴀʙᴏᴜᴛ ᴍᴇ
 - 🖥   ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠ ᴡ/ ᴀɴ ᴇʏᴇ ꜰᴏʀ ᴄʟᴇᴀɴ ᴅᴇꜱɪɢɴ
-- 🎓  ꜰɪɴᴀʟ-ʏᴇᴀʀ ᴄᴏᴍᴘᴜᴛɪɴɢ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ᴛʜᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴀʟʙᴇʀᴛᴀ
+- 🎓  ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ɴᴇᴡ ɢʀᴀᴅ ꜰʀᴏᴍ ᴛʜᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴏꜰ ᴀʟʙᴇʀᴛᴀ
 - 🔭  ​🇮​’​🇲​ ​🇨​​🇺​​🇷​​🇷​​🇪​​🇳​​🇹​​🇱​​🇾​...
   ```
-  ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴀ ᴅɴᴀ ᴅᴀᴛᴀʙᴀꜱᴇ ᴘʟᴀᴛꜰᴏʀᴍ ᴍᴠᴘ ꜰᴏʀ ᴀ ꜱᴛᴀʀᴛᴜᴘ!
+  - ᴡᴏʀᴋɪɴɢ ᴏɴ ᴘʀᴏᴊᴇᴄᴛꜱ
+  - ꜱᴇᴇᴋɪɴɢ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ
   ```
 - 📫 ʀᴇᴀᴄʜ ᴍᴇ ᴀᴛ: ꜱɴᴄʜᴀɴ1@ᴜᴀʟʙᴇʀᴛᴀ.ᴄᴀ
 
@@ -20,23 +21,19 @@
     <th>ᴅᴀᴛᴀʙᴀꜱᴇꜱ</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/></td>
-    <td><img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django"/></td>
-    <td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"/></td>
-    <td><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></td>
+    <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/></td>
     <td><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R"/></td>
-    <td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React"/></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/></td>
+    <td><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></td>
+    <td><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/></td>
+    
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/></td>
-    <td><img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/></td>
+    <td><img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"/></td>
+    <td><img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></td>
   </tr>
 </table>
